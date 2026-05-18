@@ -26,7 +26,9 @@ https://colab.research.google.com/github/yoshiyuki-arata/waseda-ml-2026-internal
 * 第六回: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
 https://colab.research.google.com/github/yoshiyuki-arata/waseda-ml-2026-internal/blob/main/notebooks/lec_6_note.ipynb
 )   
-* 第七回:
+* 第七回: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
+https://colab.research.google.com/github/yoshiyuki-arata/waseda-ml-2026-internal/blob/main/notebooks/lec_7_note.ipynb
+)   
 * 第八回: 
 
 **理論内容の講義（後半）**
