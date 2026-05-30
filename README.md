@@ -29,7 +29,12 @@ https://colab.research.google.com/github/yoshiyuki-arata/waseda-ml-2026-internal
 * 第七回: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
 https://colab.research.google.com/github/yoshiyuki-arata/waseda-ml-2026-internal/blob/main/notebooks/lec_7_note.ipynb
 )   
-* 第八回: 
+* 第八回: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
+https://colab.research.google.com/github/yoshiyuki-arata/waseda-ml-2026-internal/blob/main/notebooks/lec_8_note.ipynb
+)   
+  Demo1 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
+https://colab.research.google.com/github/yoshiyuki-arata/waseda-ml-2026-internal/blob/main/notebooks/demo_electric_use_miss.ipynb
+)   
 
 **理論内容の講義（後半）**
 
