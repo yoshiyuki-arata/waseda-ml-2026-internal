@@ -38,5 +38,12 @@ https://colab.research.google.com/github/yoshiyuki-arata/waseda-ml-2026-internal
 
 **理論内容の講義（後半）**
 
+* 第九回:
+* 第十回: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
+https://colab.research.google.com/github/yoshiyuki-arata/waseda-ml-2026-internal/blob/main/notebooks/test_distilbert_1.ipynb
+) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
+https://colab.research.google.com/github/yoshiyuki-arata/waseda-ml-2026-internal/blob/main/notebooks/test_debert_4.ipynb
+) 
+
 **演習（後半）**
 
