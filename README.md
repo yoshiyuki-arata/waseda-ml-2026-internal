@@ -45,7 +45,7 @@ https://colab.research.google.com/github/yoshiyuki-arata/waseda-ml-2026-internal
 https://colab.research.google.com/github/yoshiyuki-arata/waseda-ml-2026-internal/blob/main/notebooks/test_deberta_4.ipynb
 ) 
 * 第十一回:  
-  Fine-tuning, DistilBERT: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
+  DistilBERT: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
 https://colab.research.google.com/github/yoshiyuki-arata/waseda-ml-2026-internal/blob/main/notebooks/test_deberta_4.ipynb
 )  
   Decorder-type: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
@@ -63,7 +63,7 @@ https://colab.research.google.com/github/yoshiyuki-arata/waseda-ml-2026-internal
 **演習（後半）**
 * 第十二回: 
 * 第十三回:  
-  ...: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
+  TabPFN: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
 https://colab.research.google.com/github/yoshiyuki-arata/waseda-ml-2026-internal/blob/main/notebooks/test_TabPFN.ipynb
 ) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
 https://colab.research.google.com/github/yoshiyuki-arata/waseda-ml-2026-internal/blob/main/notebooks/test_TabPFN_regress.ipynb
