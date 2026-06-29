@@ -47,7 +47,7 @@ https://colab.research.google.com/github/yoshiyuki-arata/waseda-ml-2026-internal
 * 第十一回:
   Fine-tuning, DistilBERT: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
 https://colab.research.google.com/github/yoshiyuki-arata/waseda-ml-2026-internal/blob/main/notebooks/test_deberta_4.ipynb
-)
+)  
   Decorder-type: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
 https://colab.research.google.com/github/yoshiyuki-arata/waseda-ml-2026-internal/blob/main/notebooks/decorder_type.ipynb
 ) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
