@@ -44,23 +44,26 @@ https://colab.research.google.com/github/yoshiyuki-arata/waseda-ml-2026-internal
 ) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
 https://colab.research.google.com/github/yoshiyuki-arata/waseda-ml-2026-internal/blob/main/notebooks/test_deberta_4.ipynb
 ) 
-* 第十一回:
+* 第十一回:  
   Fine-tuning, DistilBERT: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
 https://colab.research.google.com/github/yoshiyuki-arata/waseda-ml-2026-internal/blob/main/notebooks/test_deberta_4.ipynb
 )  
   Decorder-type: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
 https://colab.research.google.com/github/yoshiyuki-arata/waseda-ml-2026-internal/blob/main/notebooks/decorder_type.ipynb
-) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
+)  
+  mmBERT: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
 https://colab.research.google.com/github/yoshiyuki-arata/waseda-ml-2026-internal/blob/main/notebooks/test_mmBERT.ipynb
-) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
+)  
+  Ruri, embedding: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
 https://colab.research.google.com/github/yoshiyuki-arata/waseda-ml-2026-internal/blob/main/notebooks/test_ruri.ipynb
-) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
+)  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
 https://colab.research.google.com/github/yoshiyuki-arata/waseda-ml-2026-internal/blob/main/notebooks/test_ruri_2.ipynb
 ) 
 
 **演習（後半）**
 * 第十二回: 
-* 第十三回: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
+* 第十三回:  
+  ...: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
 https://colab.research.google.com/github/yoshiyuki-arata/waseda-ml-2026-internal/blob/main/notebooks/test_TabPFN.ipynb
 ) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
 https://colab.research.google.com/github/yoshiyuki-arata/waseda-ml-2026-internal/blob/main/notebooks/test_TabPFN_regress.ipynb
