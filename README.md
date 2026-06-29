@@ -49,7 +49,7 @@ https://colab.research.google.com/github/yoshiyuki-arata/waseda-ml-2026-internal
 https://colab.research.google.com/github/yoshiyuki-arata/waseda-ml-2026-internal/blob/main/notebooks/test_deberta_4.ipynb
 )  
   Decorder-type: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
-https://colab.research.google.com/github/yoshiyuki-arata/waseda-ml-2026-internal/blob/main/notebooks/decorder_type.ipynb
+https://colab.research.google.com/github/yoshiyuki-arata/waseda-ml-2026-internal/blob/main/notebooks/decoder_type.ipynb
 )  
   mmBERT: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
 https://colab.research.google.com/github/yoshiyuki-arata/waseda-ml-2026-internal/blob/main/notebooks/test_mmBERT.ipynb
