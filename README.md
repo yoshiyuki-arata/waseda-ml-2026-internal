@@ -63,25 +63,25 @@ https://colab.research.google.com/github/yoshiyuki-arata/waseda-ml-2026-internal
 **演習（後半）**
 * 第十二回:  
   (a) EDA: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
-https://colab.research.google.com/github/yoshiyuki-arata/waseda-ml-2026-internal/blob/main/notebooks/test_deberta_4.ipynb
+https://colab.research.google.com/github/yoshiyuki-arata/waseda-ml-2026-internal/blob/main/notebooks/wine_review_EDA.ipynb
 )  
   (b) Random Forest: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
-https://colab.research.google.com/github/yoshiyuki-arata/waseda-ml-2026-internal/blob/main/notebooks/test_deberta_4.ipynb
+https://colab.research.google.com/github/yoshiyuki-arata/waseda-ml-2026-internal/blob/main/notebooks/wine_review_RF.ipynb
 )   
   (c1) CatBoost: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
-https://colab.research.google.com/github/yoshiyuki-arata/waseda-ml-2026-internal/blob/main/notebooks/test_deberta_4.ipynb
+https://colab.research.google.com/github/yoshiyuki-arata/waseda-ml-2026-internal/blob/main/notebooks/wine_review_CatBoost.ipynb
 )   
   (c2) CatBoost with text embedding: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
-https://colab.research.google.com/github/yoshiyuki-arata/waseda-ml-2026-internal/blob/main/notebooks/test_deberta_4.ipynb
+https://colab.research.google.com/github/yoshiyuki-arata/waseda-ml-2026-internal/blob/main/notebooks/embed_CatBoost.ipynb
 )      
   (c3) CatBoost with ridge: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
-https://colab.research.google.com/github/yoshiyuki-arata/waseda-ml-2026-internal/blob/main/notebooks/test_deberta_4.ipynb
+https://colab.research.google.com/github/yoshiyuki-arata/waseda-ml-2026-internal/blob/main/notebooks/embed_ridge_CatBoost.ipynb
 )    
   (d1) ModernBERT: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
-https://colab.research.google.com/github/yoshiyuki-arata/waseda-ml-2026-internal/blob/main/notebooks/test_deberta_4.ipynb
+https://colab.research.google.com/github/yoshiyuki-arata/waseda-ml-2026-internal/blob/main/notebooks/wine_review_mBERT.ipynb
 )    
   (d2) ModernBERT with additional text: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
-https://colab.research.google.com/github/yoshiyuki-arata/waseda-ml-2026-internal/blob/main/notebooks/test_deberta_4.ipynb
+https://colab.research.google.com/github/yoshiyuki-arata/waseda-ml-2026-internal/blob/main/notebooks/wine_review_mBERT_expand.ipynb
 )   
 * 第十三回:  
   TabPFN: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
