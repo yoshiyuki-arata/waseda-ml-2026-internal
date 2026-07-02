@@ -62,12 +62,14 @@ https://colab.research.google.com/github/yoshiyuki-arata/waseda-ml-2026-internal
 
 **演習（後半）**
 * 第十二回:  
-  (a) EDA:   
+  (a) EDA: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
+https://colab.research.google.com/github/yoshiyuki-arata/waseda-ml-2026-internal/blob/main/notebooks/test_deberta_4.ipynb
+)  
   (b) Random Forest:  
   (c1) CatBoost:  
   (c2) CatBoost with text embedding:     
   (c3) CatBoost with ridge:   
-  (d1) ModernBERT: 
+  (d1) ModernBERT:   
   (d2) ModernBERT with additional text: 
 * 第十三回:  
   TabPFN: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
