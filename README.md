@@ -61,7 +61,14 @@ https://colab.research.google.com/github/yoshiyuki-arata/waseda-ml-2026-internal
 ) 
 
 **演習（後半）**
-* 第十二回: 
+* 第十二回:
+  (a) データの EDA  
+  (b) 数値・カテゴリ変数のみを用いた、Random Forest モデル  
+  (c1) 数値・カテゴリ変数のみを用いた、CatBoost モデル  
+  (c2) テキスト情報を Embedding を追加した CatBoost モデル    
+  (c3) テキスト Embedding を Ridge で縮約した変数を追加した CatBoost モデル  
+  (d1) テキストのみを用いた、ModernBERT の fine-tuning モデル
+  (d2) 数値・カテゴリ変数をテキスト化し、ModernBERT で fine-tuning したモデル
 * 第十三回:  
   TabPFN: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
 https://colab.research.google.com/github/yoshiyuki-arata/waseda-ml-2026-internal/blob/main/notebooks/test_TabPFN.ipynb
