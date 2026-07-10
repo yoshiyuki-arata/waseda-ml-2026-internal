@@ -86,29 +86,29 @@ https://colab.research.google.com/github/yoshiyuki-arata/waseda-ml-2026-internal
   (d2) ModernBERT with additional text: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
 https://colab.research.google.com/github/yoshiyuki-arata/waseda-ml-2026-internal/blob/main/notebooks/wine_review_mBERT_expand.ipynb
 )  
-  (d3) ModernBERT, freeze ...: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
-https://colab.research.google.com/github/yoshiyuki-arata/waseda-ml-2026-internal/blob/main/notebooks/wine_review_mBERT.ipynb
+  (d3) ModernBERT, freeze: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
+https://colab.research.google.com/github/yoshiyuki-arata/waseda-ml-2026-internal/blob/main/notebooks/wine_review_mBERT_freeze.ipynb
 )   
-  (d4) ModernBERT with additional text, freeze ...: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
-https://colab.research.google.com/github/yoshiyuki-arata/waseda-ml-2026-internal/blob/main/notebooks/wine_review_mBERT_expand.ipynb
+  (d4) ModernBERT with additional text, freeze: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
+https://colab.research.google.com/github/yoshiyuki-arata/waseda-ml-2026-internal/blob/main/notebooks/wine_review_mBERT_expand_freeze.ipynb
 )   
 * 第十三回:     
-  (a) EDA ... : [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
-https://colab.research.google.com/github/yoshiyuki-arata/waseda-ml-2026-internal/blob/main/notebooks/wine_review_mBERT_expand.ipynb
+  (a) EDA: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
+https://colab.research.google.com/github/yoshiyuki-arata/waseda-ml-2026-internal/blob/main/notebooks/inside_airbnb_tokyo_eda_colab.ipynb
 )    
-  (b) LightGBM ...: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
-https://colab.research.google.com/github/yoshiyuki-arata/waseda-ml-2026-internal/blob/main/notebooks/wine_review_mBERT_expand.ipynb
+  (b) LightGBM: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
+https://colab.research.google.com/github/yoshiyuki-arata/waseda-ml-2026-internal/blob/main/notebooks/airbnb_LightGBM_2.ipynb
 )   
-  (c) ModernBERT, fine-tuning ... : [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
-https://colab.research.google.com/github/yoshiyuki-arata/waseda-ml-2026-internal/blob/main/notebooks/wine_review_mBERT_expand.ipynb
+  (c) ModernBERT, fine-tuning: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
+https://colab.research.google.com/github/yoshiyuki-arata/waseda-ml-2026-internal/blob/main/notebooks/airbnb_mmBERT_2.ipynb
 )   
-  (d1) LightGBM ... embedding : [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
-https://colab.research.google.com/github/yoshiyuki-arata/waseda-ml-2026-internal/blob/main/notebooks/wine_review_mBERT_expand.ipynb
+  (d1) Embedding : [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
+https://colab.research.google.com/github/yoshiyuki-arata/waseda-ml-2026-internal/blob/main/notebooks/airbnb_Light_GBM.ipynb
 )   
-  (d2) full ... : [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
-https://colab.research.google.com/github/yoshiyuki-arata/waseda-ml-2026-internal/blob/main/notebooks/wine_review_mBERT_expand.ipynb
+  (d2) LightGBM with embedding: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
+https://colab.research.google.com/github/yoshiyuki-arata/waseda-ml-2026-internal/blob/main/notebooks/airbnb_embed_LightGBM_expand.ipynb
 )   
-  (e) TabPFN: .... : [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
-https://colab.research.google.com/github/yoshiyuki-arata/waseda-ml-2026-internal/blob/main/notebooks/wine_review_mBERT_expand.ipynb
+  (e) TabPFN: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
+https://colab.research.google.com/github/yoshiyuki-arata/waseda-ml-2026-internal/blob/main/notebooks/airbnb_TabPFN_regress.ipynb
 )   
 * 第十四回:  
