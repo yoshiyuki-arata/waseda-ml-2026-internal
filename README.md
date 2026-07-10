@@ -92,7 +92,7 @@ https://colab.research.google.com/github/yoshiyuki-arata/waseda-ml-2026-internal
   (d4) ModernBERT with additional text, freeze ...: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
 https://colab.research.google.com/github/yoshiyuki-arata/waseda-ml-2026-internal/blob/main/notebooks/wine_review_mBERT_expand.ipynb
 )   
-* 第十三回:
+* 第十三回:     
   (a) EDA ... : [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
 https://colab.research.google.com/github/yoshiyuki-arata/waseda-ml-2026-internal/blob/main/notebooks/wine_review_mBERT_expand.ipynb
 )    
